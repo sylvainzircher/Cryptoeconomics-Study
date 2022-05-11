@@ -8,3 +8,9 @@ I am using this repository as a way to track my progress while going through the
 
 ### :bulb: Challenging Code Assignments
 > Each lecture is accompanied by a challenging coding assignment, where you will implement the concepts from the lecture. By actually building the protocols and attacks from the lectures, you’ll learn all of the nitty-gritty technical details in a fun, hands-on way. After completing the coding assignments, you’ll have the knowledge to start contributing to research discussions and development of cryptoeconomic designs.
+
+### 🖥️ Run the code locally:
+
+- You will need to install both npm and Nodejs. To install both 👉 here.
+- Pull the files to your computer.
+- Run node demo.js to see the code in action!
