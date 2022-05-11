@@ -11,6 +11,6 @@ I am using this repository as a way to track my progress while going through the
 
 ### 🖥️ Run the code locally:
 
-- You will need to install both npm and Nodejs. To install both 👉 here.
+- You will need to install both *npm* and *Nodejs*. To install both 👉 here.
 - Pull the files to your computer.
-- Run node demo.js to see the code in action!
+- Run `node demo.js` to see the code in action!
