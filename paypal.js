@@ -118,7 +118,7 @@ class Paypal extends Client {
     // if cancel
     if (tx.contents.type === 'cancel') {
       // get the nonce of the transaction to be cancelled
-      const cancelNonce = tx.contents.amount;
+      const cancelNonce = tx.contents.nonce;
       // check pending transactions
       for (const i in this.pendingTx) {
         const pendingTx = this.pendingTx[i];
